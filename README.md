@@ -1,3 +1,13 @@
+# About
+
+Hello, my name is Sarah Shupe and I am a recent graduate with a masters in Data Science. I hope to use my skills to create meaningful connections and accessible visualizations.
+
+# Contact
+
+Phone: 703-328-0446
+Email: Sarahloisshupe@gmail.com
+
+
 # ALS Data Analysis
 
 ## Overview
@@ -25,6 +35,44 @@ The analysis reveals two distinct clusters, suggesting specific patterns in ALS 
 - Exploration of additional clustering algorithms for comparison.
 - In-depth analysis of cluster characteristics to understand patient segmentation better.
 
+# COSTCO Area Analysis
+
+## Overview
+This project focuses on analyzing data related to COSTCO areas. The analysis aims to provide insights into various aspects such as location distribution, sales performance, and other relevant metrics.
+
+## Features
+- Analysis of COSTCO store locations
+- Visualization of sales performance
+- Insights into customer demographics
+- Data-driven recommendations for business decisions
+
+## Toolss Used
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Installation
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sarahloiss/Portfolio.git
+
+
+# Crime Analysis
+
+
+# Dodgers Attendance Analysis
+
+
+# Education Scores by State
+
+# Monthly Sales Analysis
+
+
+
 # Movie Recommendations
 
 ## Overview
@@ -51,3 +99,11 @@ The system outputs a list of movie recommendations based on the input movie titl
 - Enhance the recommendation algorithm by incorporating more complex similarity measures.
 - Expand the dataset to include more user ratings for a broader recommendation scope.
 - Implement a front-end interface for easier user interaction with the recommendation system.
+
+
+# Natural Gas Analysis
+
+
+# Pokemon TCG Analysis
+
+
