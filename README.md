@@ -20,7 +20,9 @@ This project involves the analysis of ALS patient data using clustering techniqu
 
 ## Tools Used
 - Python
-- Libraries: Scikit-learn, Pandas, Matplotlib
+- Scikit-learn
+- Pandas
+- Matplotlib
 
 ## How to Run
 1. Clone this repository.
@@ -54,12 +56,11 @@ This project focuses on analyzing data related to COSTCO areas. The analysis aim
 - Matplotlib
 - Seaborn
 
-## Installation
-To run this project locally, follow these steps:
+## How to Run
+1. Clone this repository.
+2. Ensure you have Python and the necessary libraries installed.
+3. Run the Jupyter Notebook `Costco_Area_Analysis.ipynb` to view the analysis.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sarahloiss/Portfolio.git
 
 
 # Crime Analysis
@@ -81,12 +82,11 @@ This project focuses on analyzing crime data to identify patterns and trends. Th
 - Seaborn
 - Geopandas
 
-## Installation
-To run this project locally, follow these steps:
+## How to Run
+1. Clone this repository.
+2. Ensure you have Python and the necessary libraries installed.
+3. Run the Jupyter Notebook `Crime_Analysis.ipynb` to view the analysis.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sarahloiss/Portfolio.git
 
 
 # Dodgers Attendance Analysis
@@ -107,12 +107,11 @@ This project focuses on analyzing the factors that influence attendance at Dodge
 - Matplotlib
 - Seaborn
 
-## Installation
-To run this project locally, follow these steps:
+## How to Run
+1. Clone this repository.
+2. Ensure you have Python and the necessary libraries installed.
+3. Run the Jupyter Notebook `Dodgers_Attendance_Analysis.ipynb` to view the analysis.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sarahloiss/Portfolio.git
 
 
 # Education Scores by State
@@ -133,12 +132,11 @@ This project analyzes educational scores across different states. The analysis a
 - Matplotlib
 - Seaborn
 
-## Installation
-To run this project locally, follow these steps:
+## How to Run
+1. Clone this repository.
+2. Ensure you have Python and the necessary libraries installed.
+3. Run the Jupyter Notebook `Education_Scores_By_State.ipynb` to view the analysis.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sarahloiss/Portfolio.git
 
 
 # Monthly Sales Analysis
@@ -159,12 +157,10 @@ This project analyzes monthly retail sales data to identify trends and patterns 
 - Matplotlib
 - Seaborn
 
-## Installation
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sarahloiss/Portfolio.git
+## How to Run
+1. Clone this repository.
+2. Ensure you have Python and the necessary libraries installed.
+3. Run the Jupyter Notebook `Monthly_Sales_Analysis.ipynb` to view the analysis.
 
 
 # Movie Recommendations
@@ -179,7 +175,10 @@ This project develops a movie recommendation system based on user ratings collec
 
 ## Tools Used
 - Python
-- Libraries: Pandas, NumPy, SciPy, Scikit-learn
+- Pandas
+- NumPy
+- SciPy
+- Scikit-learn
 
 ## How to Run
 1. Clone this repository.
@@ -193,6 +192,7 @@ The system outputs a list of movie recommendations based on the input movie titl
 - Enhance the recommendation algorithm by incorporating more complex similarity measures.
 - Expand the dataset to include more user ratings for a broader recommendation scope.
 - Implement a front-end interface for easier user interaction with the recommendation system.
+
 
 
 # Natural Gas Analysis
@@ -213,12 +213,11 @@ This project focuses on analyzing natural gas usage data. The analysis aims to p
 - Matplotlib
 - Seaborn
 
-## Installation
-To run this project locally, follow these steps:
+## How to Run
+1. Clone this repository.
+2. Ensure you have Python and the necessary libraries installed.
+3. Run the Jupyter Notebook `Natural_Gas_Analysis.ipynb` to view the analysis.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sarahloiss/Portfolio.git
 
 
 # Pokemon TCG Analysis
@@ -239,12 +238,11 @@ This project analyzes data from the Pokemon Trading Card Game (TCG). The analysi
 - Matplotlib
 - Seaborn
 
-## Installation
-To run this project locally, follow these steps:
+## How to Run
+1. Clone this repository.
+2. Ensure you have Python and the necessary libraries installed.
+3. Run the Jupyter Notebook `Pokemon_TCG_Analysis.ipynb` to view the analysis.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sarahloiss/Portfolio.git
 
 
 # World Population Analysis
@@ -265,12 +263,11 @@ This project analyzes world population data to provide insights into population 
 - Matplotlib
 - Seaborn
 
-## Installation
-To run this project locally, follow these steps:
+## How to Run
+1. Clone this repository.
+2. Ensure you have Python and the necessary libraries installed.
+3. Run the Jupyter Notebook `World_Population_Analysis.ipynb` to view the analysis.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sarahloiss/Portfolio.git
    
 
 # World Population Over Time
@@ -291,12 +288,11 @@ This project analyzes world population data over time to understand trends and p
 - Matplotlib
 - Seaborn
 
-## Installation
-To run this project locally, follow these steps:
+## How to Run
+1. Clone this repository.
+2. Ensure you have Python and the necessary libraries installed.
+3. Run the Jupyter Notebook `World_Population_Over_Time.ipynb` to view the analysis.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sarahloiss/Portfolio.git
 
 
 
